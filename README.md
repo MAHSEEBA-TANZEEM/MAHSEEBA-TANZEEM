@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MAHSEEBA-TANZEEM
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...javascript
+- 🌱 Full Stack Web Developer
+- Currently learning Java
 
 
 <!---
